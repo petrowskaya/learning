@@ -6,3 +6,6 @@ https://guides.hexlet.io/ru/vim/?roistat_visit=1126207
 http://www.viemu.com/vi-vim-cheat-sheet.gif
 
 $ vimtutor
+
+#пакетный установщик
+https://brew.sh/
