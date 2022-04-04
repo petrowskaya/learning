@@ -7,5 +7,5 @@ http://www.viemu.com/vi-vim-cheat-sheet.gif
 
 $ vimtutor
 
-#пакетный установщик
+#пакетный менеджер
 https://brew.sh/
